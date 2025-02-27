@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: zlt-spring-ai-alibaba
+  ai:
+    dashscope:
+      # 配置在阿里云百炼里申请的api-key
+      api-key: sk-xxxxxx
