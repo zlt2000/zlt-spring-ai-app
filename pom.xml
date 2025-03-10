@@ -17,6 +17,7 @@
 
     <modules>
         <module>ai-alibaba</module>
+        <!--<module>openai</module>-->
     </modules>
 
     <properties>
@@ -25,6 +26,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>21</java.version>
         <spring-ai-alibaba.version>1.0.0-M5.1</spring-ai-alibaba.version>
+        <spring-ai.version>1.0.0-M5</spring-ai.version>
+        <poi.version>5.4.0</poi.version>
+        <pdfbox.version>2.0.33</pdfbox.version>
     </properties>
 
     <dependencies>
