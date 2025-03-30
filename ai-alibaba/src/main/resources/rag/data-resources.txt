@@ -1,0 +1,7 @@
+1. {"type":"api","name":"测试api服务01","topic":"综合政务","industry":"采矿业","remark":"获取采矿明细的API服务"}
+2. {"type":"api","name":"新能源车类型","topic":"能源","industry":"制造业","remark":"获取新能源车类型的服务"}
+3. {"type":"api","name":"罚款报告","topic":"交通","industry":"制造业","remark":"获取罚款报告的接口"}
+4. {"type":"api","name":"光伏发电","topic":"能源","industry":"电力、热力、燃气及水生产和供应业","remark":"获取光伏发电的年度报告"}
+5. {"type":"api","name":"协同计算交付测试提供方","topic":"综合政务","industry":"信息传输、软件和信息技术服务业","remark":"协同计算交付测试提供方的数据源信息"}
+6. {"type":"api","name":"文件下载-计量测试","topic":"综合政务","industry":"信息传输、软件和信息技术服务业","remark":"文件下载-计量测试"}
+7. {"type":"api","name":"收益明细2025","topic":"综合政务","industry":"信息传输、软件和信息技术服务业","remark":"2025年的收益明细信息表"}

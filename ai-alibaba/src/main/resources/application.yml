@@ -4,4 +4,6 @@ spring:
   ai:
     dashscope:
       # 配置在阿里云百炼里申请的api-key
-      api-key: sk-xxxxxx
+      api-key: ${AI_DASHSCOPE_API_KEY}
+  main:
+    allow-circular-references: true
